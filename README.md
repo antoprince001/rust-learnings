@@ -29,3 +29,10 @@ Collection of code snippets used to learn rust using online resources and rustli
 - [Storing Lists of Values with Vectors](https://doc.rust-lang.org/stable/book/ch08-01-vectors.html)
 - [`iter_mut`](https://doc.rust-lang.org/std/primitive.slice.html#method.iter_mut)
 - [`map`](https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.map)
+
+
+### Move Semantics - Ownership & Borrowing
+
+- [Ownership](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html)
+
+- [Reference and borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html)
