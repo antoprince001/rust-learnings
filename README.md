@@ -36,3 +36,12 @@ Collection of code snippets used to learn rust using online resources and rustli
 - [Ownership](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html)
 
 - [Reference and borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html)
+
+
+### Structs - a classic C struct, a tuple struct, and a unit struct
+
+- [Structures](https://doc.rust-lang.org/book/ch05-01-defining-structs.html)
+
+- [Method Syntax](https://doc.rust-lang.org/book/ch05-03-method-syntax.html)
+
+
