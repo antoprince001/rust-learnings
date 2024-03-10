@@ -44,4 +44,9 @@ Collection of code snippets used to learn rust using online resources and rustli
 
 - [Method Syntax](https://doc.rust-lang.org/book/ch05-03-method-syntax.html)
 
+### Enums 
+
+- [Enums](https://doc.rust-lang.org/book/ch06-00-enums.html)
+
+- [Pattern syntax](https://doc.rust-lang.org/book/ch18-03-pattern-syntax.html)
 
