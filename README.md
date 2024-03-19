@@ -50,3 +50,7 @@ Collection of code snippets used to learn rust using online resources and rustli
 
 - [Pattern syntax](https://doc.rust-lang.org/book/ch18-03-pattern-syntax.html)
 
+
+### String
+
+- [Strings](https://doc.rust-lang.org/book/ch08-02-strings.html)
